@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* Theme tokens controlled by [data-theme] for explicit toggle */
+html[data-theme="light"] {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+html[data-theme="dark"] {
+  --background: #121212;
+  --foreground: #ededed;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Button presets for the link buttons per spec */
+.btn-pill {
+  @apply rounded-xl px-5 py-3 transition-transform duration-200 ease-out shadow-sm;
+}
+
+.btn-surface-light {
+  @apply bg-[#F2F2F2] text-black hover:bg-[#E5E5E5];
+}
+
+.btn-surface-dark {
+  @apply bg-[#2A2A2A] text-white hover:bg-[#3A3A3A];
+}
+
+.scale-hover:hover {
+  transform: scale(1.02);
+}
+
+/* Neumorphic card and gradients inspired by the provided design */
+.card-surface {
+  @apply rounded-3xl p-8 sm:p-10 max-w-[520px] w-full relative;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.9),
+    rgba(245, 245, 245, 0.9)
+  );
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06), 0 2px 10px rgba(0, 0, 0, 0.04);
+}
+html[data-theme="dark"] .card-surface {
+  background: linear-gradient(
+    180deg,
+    rgba(50, 52, 58, 0.95),
+    rgba(38, 40, 45, 0.95)
+  );
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25), 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.avatar-ring {
+  background: radial-gradient(135deg, #7dd3fc, #a78bfa, #60a5fa);
+}
+
+.grad-blue {
+  background: linear-gradient(180deg, #60a5fa, #22d3ee);
+}
+.grad-red {
+  background: linear-gradient(180deg, #fb7185, #f97316);
+}
+.grad-purple {
+  background: linear-gradient(180deg, #a78bfa, #6366f1);
+}
+.grad-sky {
+  background: linear-gradient(180deg, #93c5fd, #60a5fa);
+}
+
+.btn-cta {
+  /* Tailwind v4: cannot @apply custom classes; inline utilities instead */
+  @apply text-white rounded-xl px-5 py-3 transition-transform duration-200 ease-out shadow-md;
+}
+
+.btn-cta:hover {
+  transform: scale(1.02);
+}
+
+.glass-modal {
+  background: rgba(255, 255, 255, 0.35);
+  backdrop-filter: blur(14px);
+}
+html[data-theme="dark"] .glass-modal {
+  background: rgba(30, 32, 36, 0.55);
+  backdrop-filter: blur(14px);
+}
