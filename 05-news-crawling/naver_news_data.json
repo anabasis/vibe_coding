@@ -1,0 +1,611 @@
+{
+  "collection_info": {
+    "source": "네이버 뉴스 IT/과학 섹션",
+    "url": "https://news.naver.com/section/105",
+    "collection_date": "2025-01-19",
+    "total_articles": 115,
+    "description": "Playwright MCP를 사용하여 수집한 네이버 뉴스 IT/과학 섹션 뉴스 데이터"
+  },
+  "news_articles": [
+    {
+      "id": 1,
+      "title": "통신사 요금제 718개 난립…정부 '통합요금제' 준비",
+      "url": "https://n.news.naver.com/mnews/article/001/0015686117",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 2,
+      "title": "LG유플, 글로벌 시상식에서 '최고 홈와이파이 네트워크' 수상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005575174",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 3,
+      "title": "KAIST, 브랜드 상품 판매 수익으로 학생 연구 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0015686499",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 4,
+      "title": "미·중 갈등, 미국 제조업 재건 정책에···글로벌 반도체 업계 '재편'",
+      "url": "https://n.news.naver.com/mnews/article/032/0003402895",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 5,
+      "title": "[인터뷰]\"우주는 돈 먹는 하마...한국은 스몰샛-서비스에 강점\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394432",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 6,
+      "title": "SKT 본사 찾은 유엔…책임 있는 AI 논의",
+      "url": "https://n.news.naver.com/mnews/article/011/0004544894",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 7,
+      "title": "강남역 나오자마자 만난 '메이플 PC방'…넥슨의 색다른 시도",
+      "url": "https://n.news.naver.com/mnews/article/009/0005575173",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 8,
+      "title": "연단에서 춤추는 마틴 루터 킹? AI가 일으킨 유명인 초상권 논란[팩플]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003476221",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 9,
+      "title": "KT 존재감 복원, 해법은 내부에 [김현아의 IT세상읽기]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141739",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 10,
+      "title": "\"Chul gu ga it gin hal kka…이게 도대체 무슨 말인가 했더니\" 뜻밖의 '대반격'",
+      "url": "https://n.news.naver.com/mnews/article/016/0002543945",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 11,
+      "title": "삼성SDI, 헝가리 '사이드터미널' 설비 투자 개시…폭스바겐 공급",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360362",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 12,
+      "title": "700개 넘는 복잡한 통신요금...\"통합요금제 연내 출시 목표\"[팩플]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003476211",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 13,
+      "title": "'해킹 직격탄'에 통신3사 실적 수직낙하…3분기 합산 영업익 1조원 밑으로",
+      "url": "https://n.news.naver.com/mnews/article/029/0002987902",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 14,
+      "title": "\"통신사 요금제만 718개\"⋯정부, 통합요금제 연내 출시 추진",
+      "url": "https://n.news.naver.com/mnews/article/031/0000972978",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 15,
+      "title": "윈도 10 지원 종료... \"윈도 11 전환으로 사이버 공격 예방해야\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005421214",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 16,
+      "title": "'AI' 새 간판 걸고 '보안' 놓친 KT…'소액결제 해킹' 집중난타 국감 예고",
+      "url": "https://n.news.naver.com/mnews/article/028/0002771609",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 17,
+      "title": "\"못 잡나, 안 잡나\"...돌아온 가을야구, 판치는 '온라인 암표'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005421208",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 18,
+      "title": "SK 쉴더스, 해커 낚으려다 진짜 해킹 당했다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141725",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 19,
+      "title": "5G·LTE 구분 없앤다…통신 3사, '통합 요금제' 출시 준비",
+      "url": "https://n.news.naver.com/mnews/article/079/0004076583",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 20,
+      "title": "[단독]스타트업이 7년 공들인 '조각 투자 시장'... '시장성' 입증되자 뛰어든 KRX·NXT",
+      "url": "https://n.news.naver.com/mnews/article/023/0003935395",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 21,
+      "title": "엔씨소프트, '아이온2' 기대감 후끈... 캐릭터 이름까지 웃돈 거래",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360338",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 22,
+      "title": "통신사 요금제 718개 난립…연내 '통합요금제' 나올듯",
+      "url": "https://n.news.naver.com/mnews/article/029/0002987880",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 23,
+      "title": "\"AI 시대에도 스타트업을 바꾸는 건 결국 '사람'…숫자 아닌 비전 본다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141706",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 24,
+      "title": "휴대폰 요금제만 718개…5G·LTE 구분 여전, '통합요금제' 도입 시급",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141704",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 25,
+      "title": "통신 3사 요금제 718개 '난립'…정부 '통합요금제' 연내 출시",
+      "url": "https://n.news.naver.com/mnews/article/421/0008547466",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 26,
+      "title": "통신 3사 요금제만 710여 개… LTE·5G 구분 없는 '통합 요금제' 나온다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003935391",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 27,
+      "title": "보안기업 SK쉴더스도 해커에 당해...직원 이메일서 자료 유출",
+      "url": "https://n.news.naver.com/mnews/article/009/0005575162",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 28,
+      "title": "SKT 이어 보안회사 SK쉴더스도 해킹…\"고객사 피해 여부 확인 중\"",
+      "url": "https://n.news.naver.com/mnews/article/020/0003668132",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 29,
+      "title": "[현장]\"코끼리, 코뿔소보며 달려요\"에버랜드 갤럭시 워치런 가보니",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141690",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 30,
+      "title": "40% 무너진 SKT, 8개월 만에 점유율 반등…KT 악재 기회될까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005264870",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 31,
+      "title": "SK하이닉스도 3분기 영업익 '10조 클럽' 전망",
+      "url": "https://n.news.naver.com/mnews/article/023/0003935385",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 32,
+      "title": "위원 없는 방미통위 첫 국감…KT 소액결제 피해 추가 [뉴스잇(IT)쥬]",
+      "url": "https://n.news.naver.com/mnews/article/421/0008547310",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 33,
+      "title": "[툰설툰설] 회귀로 얻은 기회…'남궁세가 손녀딸의 귀환' vs '무림세가 천대받는 손녀 딸이 되었다'",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207223",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 34,
+      "title": "\"AI가 일자리 뺏어\" \"테크 억만장자들에 세금 부과를\"...테크 도시 샌프란 反트럼프 집회",
+      "url": "https://n.news.naver.com/mnews/article/023/0003935380",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 35,
+      "title": "이재용·최태원·정의선·구광모, 트럼프와 7시간 골프 외교…'빅딜·관세협상' 플러스효과 기대",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360325",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 36,
+      "title": "[국정자원 화재, 정부시스템 마비]화재 발생 3주만 복구율 50% 넘어",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360324",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 37,
+      "title": "LIG넥스원, ADEX서 KF-21 무장체계 공개",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394447",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 38,
+      "title": "50대 '줄퇴사'…\"위로금 5억, 자녀 학자금까지 줬더니\" 충격적 실적 '비명'",
+      "url": "https://n.news.naver.com/mnews/article/016/0002543904",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 39,
+      "title": "GPU 의존 낮추는 中…알리바바, AI 추론 효율 높인 독자 기술 공개",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394446",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 40,
+      "title": "SAP, 클라우드 전환 설득 10년째 고전…기업 95% \"이전 여전히 부담\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394445",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 41,
+      "title": "미·중 무역 갈등에 마이크론, 중국 내 데이터센터 사업 철수",
+      "url": "https://n.news.naver.com/mnews/article/023/0003935367",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 42,
+      "title": "'진짜 QLED는 어디에?'...삼성전자 '가짜 QLED' 겨냥 글로벌 마케팅 공세",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360314",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 43,
+      "title": "애슐리퀸즈, '공감형 광고'로 MZ세대와 통했다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394440",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 44,
+      "title": "[ZD브리핑] 국정감사 2주차 돌입...미중 경제 수장 회동",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394438",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 45,
+      "title": "글로벌 리더 1700명 경주로 집결…최태원 행사 총괄 지휘",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394437",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 46,
+      "title": "헬스·필라테스·요가 환불 좀 더 쉬워진다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394435",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 47,
+      "title": "엔비디아 젠슨 황 방한 확정…경주 APEC 무대 오른다",
+      "url": "https://n.news.naver.com/mnews/article/001/0015686480",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 48,
+      "title": "'AI 황제' 젠슨 황, 한국 찾는다…APEC CEO 서밋 참석 확정",
+      "url": "https://n.news.naver.com/mnews/article/421/0008547175",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 49,
+      "title": "'KAIST 인형 키링' 잘 팔리더니… 브랜드 수익 '여기' 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005264836",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 50,
+      "title": "中 QLED에 직격 날린 삼성전자…\"가짜 말고 진짜를 사세요\"",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207218",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 51,
+      "title": "\"또 당첨될 줄은\"…챗GPT가 찍은 번호로 10만달러 파워볼 잭팟 터졌다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004544935",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 52,
+      "title": "GIST·KAIST 연구비 카드 부정 사용 무더기 적발",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360297",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 53,
+      "title": "온몸이 아닌 암세포만 겨눈다…요즘 뜨는 방사성 치료는 무엇 [MK약국]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005575124",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 54,
+      "title": "[단독] SKT '해킹 보상 패키지'서 자급제 요금제 '에어' 제외… 정부 심사도 논란",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141549",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 55,
+      "title": "마이크론, 韓 'HBM 인재' 확보 착수...'설계부터 제조까지' 급구",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360293",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 56,
+      "title": "\"'넥스트 반도체'는 이것\"…이노테크 엑스포 달군 대만 로봇 기술",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360291",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 57,
+      "title": "\"저소득층, 암 진단 이후 1년 이내 사망률 26%\"",
+      "url": "https://n.news.naver.com/mnews/article/029/0002987830",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 58,
+      "title": "\"삼성 밀어냈다?\" 폴더블폰 판도 바꾼 모토로라의 진격 [IT+]",
+      "url": "https://n.news.naver.com/mnews/article/665/0000006007",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 59,
+      "title": "세미파이브, 코스닥 노크…\"AI 맞춤형 반도체 성장 속도낸다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141528",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 60,
+      "title": "삼성전자, 실리콘밸리서 'AI 드리븐 컴퍼니' 도약 비전 발표",
+      "url": "https://n.news.naver.com/mnews/article/079/0004076527",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 61,
+      "title": "에코프로, 임직원에 자사주 24만주 지급 예정",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394431",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 62,
+      "title": "\"김치별 자동 맞춤 온도\"…LG전자, 'AI 맞춤보관' 김치톡톡 출시",
+      "url": "https://n.news.naver.com/mnews/article/079/0004076525",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 63,
+      "title": "문혁수 LG이노텍 대표 \"사람도 기업도 시대 요구에 빠르게 전환해야\"",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360283",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 64,
+      "title": "예타 확정 2년 만에 발사체 방향 급선회…'정책 뒤집기' 논란",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141516",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 65,
+      "title": "코오롱생명과학, 유럽종양학회서 전립선암 전임상 결과 공개",
+      "url": "https://n.news.naver.com/mnews/article/029/0002987814",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 66,
+      "title": "통신 3사 운영 요금제 718개... 정부, '통합 요금제' 연내 출시 추진",
+      "url": "https://n.news.naver.com/mnews/article/366/0001115574",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 67,
+      "title": "\"GIST·KAIST, 유흥비·상품권깡 등 대규모 카드 부정사용\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141513",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 68,
+      "title": "정부 전산시스템 복구율 51.9%…국정자원 화재 절반 회복",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394429",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 69,
+      "title": "\"중산층 감세 재원\"…이탈리아, 부유층 외국인 소득세 또 올린다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394428",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 70,
+      "title": "男 난임 지난해 10만명 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001115571",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 71,
+      "title": "'국가AI컴퓨팅센터' 3차 공모 마감 임박…삼성SDS 컨소 독주할까",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394426",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 72,
+      "title": "이번엔 믿을 수 있을까…KT \"소액결제 전수조사 완료\"",
+      "url": "https://n.news.naver.com/mnews/article/011/0004544898",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 73,
+      "title": "LG전자, 'AI 김치냉장고' 출시…구독으로 위생 관리 강화",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207215",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 74,
+      "title": "LG전자, AI 맞춤보관 기능 적용 김치냉장고 'AI 김치톡톡' 출시",
+      "url": "https://n.news.naver.com/mnews/article/366/0001115569",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 75,
+      "title": "\"인건비 수주 경쟁, 안 해도 된다\" 해도…여전히 한숨 쉬는 이유",
+      "url": "https://n.news.naver.com/mnews/article/008/0005264788",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 76,
+      "title": "[100세건강] 골다공증, 이런 습관만 바꿔도 평생 곧은 허리 지킨다",
+      "url": "https://n.news.naver.com/mnews/article/421/0008546912",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 77,
+      "title": "'해킹 국감' 나가는 KT 김영섭…위약금 면제 발표할까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005264787",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 78,
+      "title": "네카오 3분기 전망 나란히 맑음…커머스 강화하고 잘 버텼다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005264790",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 79,
+      "title": "뚱뚱해도 심장 건강은 '이상 무'…비만 유전자 'MC4R' 돌연변이의 역설[사이언스 PICK]",
+      "url": "https://n.news.naver.com/mnews/article/003/0013543008",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 80,
+      "title": "심의 12배 폭증했는데 인력은 2배…방미심위 과부하 심화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141503",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 81,
+      "title": "문혁수 LG이노텍 대표 \"기업도 사람도 피벗할 수 있어야 산다\" [인더인싸]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207212",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 82,
+      "title": "[오라클AI월드] 훈련에서 추론으로, 오라클이 그린 AI 다음 단계(종합)",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207211",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 83,
+      "title": "700여개 달하는 통신 3사 요금제…정부 '통합요금제' 준비한다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005666306",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 84,
+      "title": "카카오모빌리티, APEC서 무료 순환버스 운영…우회경로 안내도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005666302",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 85,
+      "title": "LG유플러스, AI로 로밍 가입절차 확 줄였다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004544896",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 86,
+      "title": "링크드인서 만난 그 남자...\"알고 보니 채용 빙자 해커\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394424",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 87,
+      "title": "\"2년도 안 돼 뒤집힌 발사체 계획…정치적 판단이 기술 흔들어선 안돼\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394423",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 88,
+      "title": "삼성전자, 실리콘밸리서 '앰비언트 AI' 비전 제시… \"AI로 일하는 회사로 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/366/0001115556",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 89,
+      "title": "SK쉴더스, 해킹 당해…어제 KISA 신고, 리스크 확산 우려",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141475",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 90,
+      "title": "잘나가는 K-뷰티, 안전은 낙제점…같은 업체 반복 적발되기도",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394422",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 91,
+      "title": "KAIST-GIST 상품권깡·회의록 조작·유흥비 결제...\"법카 사용 매뉴얼 재점검해야\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394420",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 92,
+      "title": "\"왕 필요 없다\"…美 샌프란 시민, 트럼프 맞서 대규모 시위",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394418",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 93,
+      "title": "GS25 \"건강기능식품 인기…누적 판매 100만개 눈앞\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394417",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 94,
+      "title": "비트코인 괜찮을까, 불안한 10만7000달러…'공포'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006141459",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 95,
+      "title": "케링, 로레알에 뷰티사업 판다…부채 줄이고 브랜드 재편",
+      "url": "https://n.news.naver.com/mnews/article/092/0002394416",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 96,
+      "title": "[박대리보고서] 미중 갈등에 커진 탈중국 공급망, 수혜·위축 기로섰다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002207209",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 97,
+      "title": "LGU+, 로밍 챗봇에 LLM 도입…\"가입 절차 60% 단축\"",
+      "url": "https://n.news.naver.com/mnews/article/030/0003360264",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 98,
+      "title": "SKT, 유엔 인권최고대표사무소에 자사 AI 거버넌스 소개",
+      "url": "https://n.news.naver.com/mnews/article/029/0002987787",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 99,
+      "title": "LG U+, 2년 연속 글로벌 시상식서 '최고 홈 와이파이 네트워크상' 수상",
+      "url": "https://n.news.naver.com/mnews/article/014/0005421089",
+      "type": "뉴스기사"
+    },
+    {
+      "id": 100,
+      "title": "LGU+, LLM 기반 '로밍 AI 챗봇' 공개…가입 1분 이내 완료",
+      "url": "https://n.news.naver.com/mnews/article/119/0003013989",
+      "type": "뉴스기사"
+    }
+  ]
+}

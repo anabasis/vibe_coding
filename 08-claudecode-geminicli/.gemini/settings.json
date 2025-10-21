@@ -1,0 +1,31 @@
+{
+  "general": {
+    "preferredEditor": "cursor",
+    "checkpointing": {
+      "enabled": true
+    },
+    "hideFooter": false,
+    "hidePWD": false,
+    "hideModelInfo": false,
+    "hodeContextSummary": false,
+    "showMemoryUsage": true,
+    "showLineNumbers": true,
+    "context": {
+      "fileName": "CLAUDE.md"
+    },
+    "mcpServers": {
+      "Sequential Thinking": {
+        "command": "npx",
+        "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+      },
+      "context7": {
+        "command": "npx -y @upstash/context7-mcp",
+        "env": {},
+        "args": []
+      },
+      "Playwright": {
+        "command": "npx @playwright/mcp@latest"
+      }
+    }
+  }
+}

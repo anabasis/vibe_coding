@@ -1,6 +1,6 @@
 (() => {
   const DURATION_SECONDS = 120; // 2 minutes
-  const BOARD_SIZE = 24; // number of ghosts
+  const BOARD_SIZE = 24; // number of apples
   const MIN_VALUE = 1;
   const MAX_VALUE = 9;
 
@@ -42,7 +42,7 @@
   function createApple(id, value) {
     const el = document.createElement("button");
     el.type = "button";
-    el.className = "ghost";
+    el.className = "apple";
     el.dataset.id = String(id);
     el.textContent = String(value);
     el.setAttribute("aria-pressed", "false");
@@ -116,7 +116,7 @@
   function animateAndRespawn() {
     const ids = Array.from(selectedIds);
     ids.forEach((id) => {
-      const el = boardEl.querySelector(`.ghost[data-id="${id}"]`);
+      const el = boardEl.querySelector(`.apple[data-id="${id}"]`);
       if (!el) return;
       el.classList.remove("selected");
       el.classList.add("good", "hidden");
@@ -137,7 +137,7 @@
   function animateAndShakeOnly() {
     const ids = Array.from(selectedIds);
     ids.forEach((id) => {
-      const el = boardEl.querySelector(`.ghost[data-id="${id}"]`);
+      const el = boardEl.querySelector(`.apple[data-id="${id}"]`);
       if (!el) return;
       el.classList.remove("selected");
       el.classList.add("bad");

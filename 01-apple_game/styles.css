@@ -1,11 +1,11 @@
 :root {
   --bg: #07070b;
   --panel: #0e0e17;
-  --accent: #b3002d; /* blood red */
-  --accent-2: #b8f5ff; /* ghost glow */
+  --accent: #d32f2f; /* apple red */
+  --accent-2: #ffeb3b; /* apple highlight */
   --text: #f2f6ff;
   --muted: #9aa3b2;
-  --good: #8affd3; /* ectoplasm green */
+  --good: #8affd3; /* success green */
   --bad: #ff2c52;
 }
 
@@ -88,7 +88,7 @@ body {
   touch-action: none;
 }
 
-.ghost {
+.apple {
   position: relative;
   display: grid;
   place-items: center;
@@ -106,34 +106,30 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-.ghost::before {
-  content: "";
+.apple::before {
+  content: "🍎";
   position: absolute;
-  top: 8px;
-  width: 34px;
-  height: 16px;
-  background: radial-gradient(circle at 25% 50%, #fff 0 35%, transparent 36%),
-    radial-gradient(circle at 75% 50%, #fff 0 35%, transparent 36%),
-    linear-gradient(180deg, #fff 0 100%);
-  border-radius: 12px 12px 16px 16px;
-  filter: drop-shadow(0 0 6px rgba(184, 245, 255, 0.35));
+  top: 6px;
+  font-size: 20px;
+  opacity: 0.6;
+  filter: drop-shadow(0 0 4px rgba(255, 235, 59, 0.25));
 }
 
-.ghost.selected {
+.apple.selected {
   outline: 3px solid var(--accent-2);
   transform: scale(0.98);
 }
-.ghost.good {
+.apple.good {
   animation: pop 200ms ease;
   background: linear-gradient(180deg, #2f564b, #1b3c34);
   box-shadow: 0 0 18px rgba(138, 255, 211, 0.35);
 }
-.ghost.bad {
+.apple.bad {
   animation: shake 250ms ease;
   background: linear-gradient(180deg, #3a1720, #2a0f15);
 }
 
-.ghost.hidden {
+.apple.hidden {
   opacity: 0;
   transform: scale(0.6);
 }
