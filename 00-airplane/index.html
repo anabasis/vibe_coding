@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3D 자유비행 비행기 시뮬레이션</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="gameContainer">
+      <div id="instructions">
+        <h1>3D 자유비행 비행기 시뮬레이션</h1>
+        <p>화살표 키를 사용하여 비행기를 조종하세요!</p>
+        <ul>
+          <li>↑ 화살표: 기수를 아래로 (다이빙)</li>
+          <li>↓ 화살표: 기수를 위로 (상승)</li>
+          <li>← 화살표: 왼쪽으로 롤</li>
+          <li>→ 화살표: 오른쪽으로 롤</li>
+        </ul>
+        <button id="startButton">게임 시작</button>
+      </div>
+      <canvas id="gameCanvas"></canvas>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
