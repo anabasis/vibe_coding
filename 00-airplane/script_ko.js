@@ -345,3 +345,4 @@ function animate() {
 
 // 게임 초기화 실행
 init();
+
