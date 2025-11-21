@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/react,nextjs
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,nextjs
 
+.specstory
+**/.specstory
+
 ### NextJS ###
 # dependencies
 /node_modules
@@ -53,8 +56,5 @@ psd
 thumb
 sketch
 keys.json # 이걸 해주어야 한다!!!!!!!!!!!
-
-.specstory
-**/.specstory
 
 # End of https://www.toptal.com/developers/gitignore/api/react,nextjs
