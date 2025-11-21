@@ -54,4 +54,6 @@ thumb
 sketch
 keys.json # 이걸 해주어야 한다!!!!!!!!!!!
 
+.specstory
+
 # End of https://www.toptal.com/developers/gitignore/api/react,nextjs
